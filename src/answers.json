@@ -1,0 +1,20 @@
+[
+  { "msg": "Heck YES!", "color": "green" },
+  { "msg": "Yes. This time only.", "color": "green" },
+  { "msg": "Without a doubt.", "color": "green" },
+  { "msg": "Yes - definitely.", "color": "green" },
+  { "msg": "ABSOLUTELY!", "color": "green" },
+  { "msg": "Ugh. Fine...", "color": "green" },
+  { "msg": "Yes.", "color": "green" },
+  { "msg": "Kindof looks that way.", "color": "goldenrod" },
+  { "msg": "I'm confused. ", "color": "goldenrod" },
+  { "msg": "Ask again later, dummy.", "color": "goldenrod" },
+  { "msg": "Better not tell you now.", "color": "goldenrod" },
+  { "msg": "Cannot tell right now.", "color": "goldenrod" },
+  { "msg": "Ask nicer and try again.", "color": "goldenrod" },
+  { "msg": "You are ridiculous", "color": "red" },
+  { "msg": "ZERO chance.", "color": "red" },
+  { "msg": "Mom says no.", "color": "red" },
+  { "msg": "Not in a million years.", "color": "red" },
+  { "msg": "Heck nawwwwww.", "color": "red" }
+]
